@@ -39,5 +39,5 @@ College ERP using MERN Stack
 
 ##
 
-> made by theValour
+> made by Shailendra
 
